@@ -1,0 +1,12 @@
+Skills:
+- Bash commands and simple scripts,
+- Git and GitHub,
+- Test design techniques,
+- Client-server architectire,
+- API testing with Postman,
+- Writing test documentation,
+- Web and mobile testing (DevTools),
+- Charles and Fiddler",
+- SQL,
+- JMeter,
+- Developing simple mobile apps with Xcode/Android Studio.
